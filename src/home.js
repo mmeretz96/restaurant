@@ -7,7 +7,7 @@ function loadHome() {
     const h2 = document.createElement("h2")
     h2.innerText = "Welcome!"
     const p = document.createElement("p")
-    p.innerText = "Sie sind Liebhaber der Küche Ungarn, Griechenlands und suchen nach einem Schwäbisch und Griechisch/Ungarischen Restaurant? In unserem gemütlichen Lokal können Sie in herzlicher Atmosphäre original schwäbische, ungarische und griechische Spezialitäten genießen. Unsere abwechslungsreiche Speisekarte enthällt zahlreiche Köstlichkeiten für Sie bereit und überzeugt mit Gerichten aus frischen Zutaten. Mit Liebe und Sorgfalt zubereitet, servieren wir Ihnen leckere Speisen für jeden Geschmack."
+    p.innerText = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, cumque. Voluptate quam asperiores fuga laborum soluta voluptatum perspiciatis excepturi accusantium dignissimos, facere tempora minus sunt error perferendis maiores. Ad, laudantium."
     
     element.appendChild(h2)
     element.appendChild(p)
